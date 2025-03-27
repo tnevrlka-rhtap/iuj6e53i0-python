@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iuj6e53i0-python-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/iuj6e53i0-python-gitops
